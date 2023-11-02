@@ -22,7 +22,7 @@ FOR EACH ROW
 BEGIN
    INSERT INTO nuevas_noticias(consulta_idconsulta) VALUES (NEW.idconsulta);
 END;$$
-
+```
 
 Este es el ejemplo del entorno
 ```ini
