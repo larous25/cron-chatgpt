@@ -1,3 +1,8 @@
+Este fue un proyecto un pequeño trabajo que un cliente me pidio y luego no me volvio a hablar :C
+
+
+
+
 HOLA - es necesario que se hagan unos cambios antes de ejecutar
 
 
