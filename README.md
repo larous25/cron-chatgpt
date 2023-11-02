@@ -25,7 +25,7 @@ END;$$
 
 
 Este es el ejemplo del entorno
-```
+```ini
 API = 'holis'  
 HOST= 'localhost'
 USER= 'root'
